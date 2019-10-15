@@ -41,6 +41,7 @@
   "devDependencies": {
     "@sinonjs/referee": "^3.2.0",
     "benchmark": "2.1.4",
+    "es6-map": "^0.1.5",
     "eslint": "^6.2.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-config-sinon": "^3.0.1",
