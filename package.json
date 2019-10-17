@@ -40,7 +40,8 @@
   "dependencies": {
     "@sinonjs/commons": "^1.6.0",
     "array-from": "^2.1.1",
-    "lodash.get": "^4.4.2"
+    "lodash.get": "^4.4.2",
+    "type-detect": "^4.0.8"
   },
   "devDependencies": {
     "@sinonjs/referee": "^3.2.0",
